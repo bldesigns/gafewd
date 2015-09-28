@@ -1,0 +1,23 @@
+body {
+	background-color: #222222; 
+	font-family: verdana, arial
+}
+a,a.link,a:visited {
+	color: white;
+	text-decoration: none;
+}
+a.hover {
+	text-decoration: underline;
+}
+a.active {
+	color: white;
+}
+h1 {
+	color:white
+}
+p {
+	color:white
+}
+footer {
+	font-size:7pt;
+}
